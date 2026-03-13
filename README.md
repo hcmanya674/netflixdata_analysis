@@ -1,29 +1,29 @@
-# Netflix Data Analysis 📊
+ Netflix Data Analysis 
 
 This project performs Exploratory Data Analysis (EDA) on the Netflix dataset using Python.
 
-## Tools Used
+ Tools Used
 - Python
 - Pandas
 - Matplotlib
 
-## Analysis Performed
+ Analysis Performed
 - Movies vs TV Shows comparison
 - Top release years
 - Countries producing the most Netflix content
 
-## Sample Visualizations
+ Sample Visualizations
+ 1.Movies vs TV Shows
+   ![Movies vs TV Shows](movies_vs_tvshows.png)
 
-### Movies vs TV Shows
-![Movies vs TV Shows](movies_vs_tvshows.png)
+ 2. Top Release Years
+   ![Top Release Years](top_release_years.png)
 
-### Top Release Years
-![Top Release Years](top_release_years.png)
+3.Top Countries
+  ![Top Countries](top_countries.png)
 
-### Top Countries
-![Top Countries](top_countries.png)
-
-## How to Run
+ How to Run
 
 1. Download the repository
 2. Install required libraries
+
