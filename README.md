@@ -13,6 +13,7 @@ This project performs Exploratory Data Analysis (EDA) on the Netflix dataset usi
 - Countries producing the most Netflix content
 
  Sample Visualizations
+ 
  1.Movies vs TV Shows
    ![Movies vs TV Shows](movies_vs_tvshows.png)
 
